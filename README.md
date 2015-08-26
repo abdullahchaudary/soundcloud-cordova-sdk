@@ -1,5 +1,5 @@
-SoundCloud JavaScript SDK (Patched)
-===================================
+SoundCloud Cordova SDK
+======================
 
 Unfortunately since the SoundCloud JavaScript SDK uses protocol-relative URLs in its requests to the SoundCloud API, the SDK doesn't work when running on an Android or iOS device under Cordova, as the URLs will resolve the the `file://` protocol.
 
@@ -11,13 +11,13 @@ Usage
 Install the SDK via npm:
 
 ```
-npm install --save soundcloud-sdk-patched
+npm install --save soundcloud-cordova-sdk
 ```
 
 Import the SDK into your application:
 
 ```js
-import { SC } from 'soundcloud-sdk-patched';
+import 'soundcloud-cordova-sdk';
 
 // Initialize the SDK with your SoundCloud Client ID
 SC.initialize({

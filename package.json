@@ -1,16 +1,16 @@
 {
-  "name": "soundcloud-sdk-patched",
+  "name": "soundcloud-cordova-sdk",
   "version": "2.0.0",
-  "description": "SoundCloud JavaScript SDK",
+  "description": "SoundCloud JavaScript SDK patched for Cordova",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/angusfretwell/soundcloud-javascript-sdk-patched.git"
+    "url": "git+https://github.com/angusfretwell/soundcloud-cordova-sdk.git"
   },
   "author": "SoundCloud Limited",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/angusfretwell/soundcloud-javascript-sdk-patched/issues"
+    "url": "https://github.com/angusfretwell/soundcloud-cordova-sdk/issues"
   },
-  "homepage": "https://github.com/angusfretwell/soundcloud-javascript-sdk-patched#readme"
+  "homepage": "https://github.com/angusfretwell/soundcloud-cordova-sdk#readme"
 }
