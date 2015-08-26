@@ -1,0 +1,16 @@
+{
+  "name": "soundcloud-sdk-patched",
+  "version": "2.0.0",
+  "description": "SoundCloud JavaScript SDK",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angusfretwell/soundcloud-javascript-sdk-patched.git"
+  },
+  "author": "SoundCloud Limited",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angusfretwell/soundcloud-javascript-sdk-patched/issues"
+  },
+  "homepage": "https://github.com/angusfretwell/soundcloud-javascript-sdk-patched#readme"
+}
